@@ -1,0 +1,91 @@
+.content-logo {
+    background-color: #D9C6B5;
+    border: 1px;
+    height: 34px;
+    width: 100px;
+}
+
+
+.content-logo__point{
+    font-weight: 400;
+    color: #c8a485;
+    font-size: 20px;
+    display: inline;
+    text-align: center;
+    vertical-align: middle;
+}
+
+
+.title__logo-text {
+    color: #8B7969;
+    font-size: 35px;
+    text-align: center;
+    position: relative;
+    top: 162px;
+    left: 710px;
+}
+
+
+
+.login-text__box {
+    height: 579px;
+    width: 736px;
+    border: 1px;
+    border-radius: 10px;
+    margin-top: 264px;
+}
+
+.address__box-form {
+    top: 362px;
+    width: 445px;
+    height: 102px;
+    left: 534px;
+    position: relative;
+}
+
+.login__text-form {
+    width: 445px;
+    height: 55px;
+    text-align: center;
+}
+
+.login-text {
+    color: #8B7969;
+    width: 400;
+    size: 25px;
+    bottom: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

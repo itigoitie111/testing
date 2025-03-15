@@ -1,0 +1,32 @@
+.content__box {
+    height: 365px;
+    width: 1381px;
+    position: relative;
+    top: 319px;
+    left: 66px;
+}
+
+.content__back-text {
+    font-size: 280px;
+    font-weight: 400;
+    text-align: center;
+    width: 1381px;
+    color: #e2dcd7;
+    height: 365px;
+}
+
+h3 {
+    font-size: 30px;
+    color: #8B7969;
+    font-weight: 700;
+    text-align: center;
+}
+
+.home__access {
+    color: white;
+    background-color: #8B79690D;
+    padding: 10px 40px;
+    position: relative;
+    top: 555px;
+    left: 686px;
+}

@@ -1,0 +1,61 @@
+.title__logo {
+    text-align: center;
+    color: #8B7969;
+    font-size: 35px;
+    font-weight: 400;
+    width: 133px;
+    height: 43px;
+}
+
+.contact__table-box {
+    position: relative;
+    width: 972px;
+    height: 606px;
+    top: 247px;
+    left: 273px;
+    border: 1px;
+}
+
+
+.table__header {
+    width: 248.76px;
+    height: 26px;
+
+}
+
+
+.error-message {
+    color: red;
+}
+
+
+
+.contact__table-row{
+    margin: 30px 0px 0px 0px;
+}
+
+
+.contact__table-row--last {
+    position: relative;
+    height: 129px;
+    width: 962.78px;
+    top: 724px;
+    left: 282.22px;
+}
+
+.submit__button-form {
+    position: relative;
+    top: 247px;
+    left: 273px;
+    border: 1px;
+    width: 160px;
+    height: 46px;
+    background-color: #82756A;
+}
+
+.submit__button {
+    color: white;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+}

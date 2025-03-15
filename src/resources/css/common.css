@@ -1,0 +1,17 @@
+.content {
+    background-color: #C5B9B0;
+}
+
+.header {
+    height: 99px;
+    width: 1512px;
+    background-color: white;
+    border: solid 1px #E0DFDE;
+}
+
+.header__title {
+    color: #8B7969;
+    font-size: 40px;
+    text-align: center;
+    font-weight: 400px;
+}

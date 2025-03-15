@@ -1,0 +1,54 @@
+.content__logo {
+    width: 100px;
+    height: 34px;
+    position: relative;
+    top: 33px;
+    border-color: #D9C6B5;
+    background-color: #c5bab1;
+    left: 1316px;
+    border-radius: 1px;
+}
+
+
+.content__logo-text {
+    font-size: 20px;
+    font-weight: 400;
+    color: #D9C6B5;
+    text-align: center;
+    padding: 2px 4px;
+}
+
+
+.title__logo-text {
+    color: #8B7969;
+    width: 134px;
+    height: 46px;
+    position: relative;
+    top: 159px;
+    left: 689px;
+    text-align: center;
+}
+
+.register__text-box {
+    width: 736px;
+    height: 644;
+    position: relative;
+    top: 264px;
+    left: 388px;
+    border: 1px;
+    border-radius: 10px;
+}
+
+.register__text-form {
+    width: 445px;
+    height: 55px;
+    text-align: center;
+}
+
+.register__text {
+    color: #8B7969;
+    width: 400;
+    size: 25px;
+    bottom: 5px;
+}
+
